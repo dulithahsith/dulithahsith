@@ -1,15 +1,16 @@
 # Hi, I'm Dulitha Hasith
 
-I build software projects across web development, backend systems, and coursework-driven problem solving. Most of my public repositories reflect hands-on learning through MERN applications, Java practice, and university work.
+I build software projects across full-stack web development, backend systems, and coursework-driven problem solving. My GitHub is a mix of MERN applications, Java practice, university projects, and experiments that reflect how I learn by building.
 
-## What I'm Working On
+## Focus Areas
 
-- Building full-stack applications with JavaScript and the MERN stack
-- Improving backend architecture, authentication, and API design
-- Exploring AI integration patterns such as chatbots and RAG-based assistants
-- Strengthening Java and problem-solving fundamentals
+- Full-stack JavaScript development
+- Backend APIs and authentication flows
+- MongoDB-based application design
+- AI feature exploration for web applications
+- Problem solving through Java and coursework projects
 
-## Featured Projects
+## Selected Projects
 
 ### Friend Verse
 A MERN-based social memory-sharing app with authentication, post creation, likes, comments, image uploads, and search.
@@ -17,17 +18,38 @@ A MERN-based social memory-sharing app with authentication, post creation, likes
 - Repository: https://github.com/dulithahsith/friend_verse
 - Stack: React, Redux, Express, MongoDB, JWT, AWS S3
 
+### FriendVerse
+An earlier public version of the FriendVerse social app project.
+
+- Repository: https://github.com/dulithahsith/FriendVerse
+- Stack: JavaScript, MERN-style application structure
+
 ### LibraryMgtSystem
-A JavaScript-based library management project focused on core CRUD and application structure.
+A JavaScript-based library management project focused on CRUD operations and application structure.
 
 - Repository: https://github.com/dulithahsith/LibraryMgtSystem
 
 ### Java-Practice
-A repository for Java practice and algorithm/problem-solving exercises.
+A repository for Java practice and problem-solving work.
 
 - Repository: https://github.com/dulithahsith/Java-Practice
 
-## Tech I Use
+### Coursera_Java_Duke
+Coursework and exercises from the Duke University Java course.
+
+- Repository: https://github.com/dulithahsith/Coursera_Java_Duke
+
+### CV
+A simple personal CV/profile repository published with GitHub Pages support.
+
+- Repository: https://github.com/dulithahsith/CV
+
+### 210112H_CS2023
+Course-related repository containing academic programming work.
+
+- Repository: https://github.com/dulithahsith/210112H_CS2023
+
+## Tech I Work With
 
 - JavaScript
 - React
@@ -38,22 +60,14 @@ A repository for Java practice and algorithm/problem-solving exercises.
 - C++
 - HTML/CSS
 
-## Current Focus
+## Current Direction
 
-- Writing cleaner project documentation
-- Building more polished full-stack portfolio projects
-- Adding AI-powered features to existing applications
-- Improving system design and implementation depth
+- Writing cleaner documentation for projects
+- Improving portfolio quality across existing repositories
+- Adding more complete backend and AI-driven features to apps
+- Building stronger end-to-end full-stack projects
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulithahsith&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulithahsith&layout=compact&theme=default)
-
-## Connect
+## Links
 
 - GitHub: https://github.com/dulithahsith
-
----
-
-If you want this on your GitHub profile, create a repository named `dulithahsith` and place this content in its `README.md`.
+- Friend Verse: https://github.com/dulithahsith/friend_verse
